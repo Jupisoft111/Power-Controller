@@ -1,0 +1,20 @@
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\bin\Debug\Power Controller.exe.config
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\bin\Debug\Power Controller.exe
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\bin\Debug\Power Controller.pdb
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\obj\Debug\Power_Controller.Properties.Resources.resources
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\obj\Debug\Power_Controller.Ventana_Principal.resources
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\obj\Debug\Power Controller.csproj.GenerateResource.cache
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\obj\Debug\Power Controller.csproj.CoreCompileInputs.cache
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\obj\Debug\Power Controller.exe
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\obj\Debug\Power Controller.pdb
+C:\Users\Jupisoft\source\repos\Power Controller\Power Controller\obj\Debug\Power Controller.csprojAssemblyReference.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\bin\Debug\Power Controller.exe.config
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\bin\Debug\Power Controller.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\bin\Debug\Power Controller.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\obj\Debug\Power_Controller.Properties.Resources.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\obj\Debug\Power_Controller.Ventana_Principal.resources
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\obj\Debug\Power Controller.csproj.GenerateResource.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\obj\Debug\Power Controller.csproj.CoreCompileInputs.cache
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\obj\Debug\Power Controller.exe
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\obj\Debug\Power Controller.pdb
+C:\Users\Jupisoft\Documents\Visual Studio 2017\Projects\Power Controller\Power Controller\obj\Debug\Power_Controller.Ventana_Acerca.resources
